@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito&family=Poppins:wght@700&display=swap');
+
+/*font-family: 'Nunito', sans-serif;
+font-family: 'Poppins', sans-serif;*/
+
+.img-size {
+    width: 100%;
+}
+
+.color-purple {
+    color: #554d89;
+}
+
+.color-gray {
+    color: #5b5768;
+}
+
+.color-btn {
+    color: #6852ed;
+}
+
+.color-gradient {
+    background: #6852ed;
+    background: -moz-linear-gradient(left,  #6852ed 0%, #ba43fc 100%); 
+    background: -webkit-linear-gradient(left,  #6852ed 0%,#ba43fc 100%); 
+    background: linear-gradient(to right,  #6852ed 0%,#ba43fc 100%); 
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#6852ed', endColorstr='#ba43fc',GradientType=1 ); 
+}
+
+.font-weight {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 700;
+}
+
+.font-regular {
+    font-family: 'Nunito', sans-serif;
+    font-weight: 400;
+}
+
+.btn-default {
+    color: white !important;
+    border-radius: 20px !important;
+}
+
+
+
