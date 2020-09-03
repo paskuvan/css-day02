@@ -65,4 +65,8 @@ font-family: 'Poppins', sans-serif;*/
     top: 6em;
 }
 
+.progress-bar {
+    background-color: #6852ed !important;
+}
+
 
