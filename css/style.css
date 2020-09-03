@@ -15,6 +15,10 @@ font-family: 'Poppins', sans-serif;*/
     color: #5b5768;
 }
 
+.color-white {
+    color: white;
+}
+
 .color-btn {
     color: #6852ed;
 }
@@ -67,6 +71,16 @@ font-family: 'Poppins', sans-serif;*/
 
 .progress-bar {
     background-color: #6852ed !important;
+}
+
+.footer-contact {
+    position: relative;
+    left: 8em;
+    top: 60px;
+}
+
+.footer-top {
+    top: 60px;
 }
 
 
