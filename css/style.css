@@ -50,4 +50,19 @@ font-family: 'Poppins', sans-serif;*/
     margin-top: 48px;
 }
 
+.btn-play {
+    position: relative;
+    top: 5em;
+}
+
+.call-title {
+    position: relative;
+    top: 4em;
+}
+
+.call-sub {
+    position: relative;
+    top: 6em;
+}
+
 
