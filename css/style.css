@@ -42,5 +42,12 @@ font-family: 'Poppins', sans-serif;*/
     border-radius: 20px !important;
 }
 
+.mb-8 {
+    margin-bottom: 8rem!important;
+}
+
+.mt-9 {
+    margin-top: 48px;
+}
 
 
