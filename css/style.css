@@ -83,4 +83,26 @@ font-family: 'Poppins', sans-serif;*/
     top: 60px;
 }
 
+.dn {
+    display: none;
+}
+
+@media (max-width: 768px) {
+
+    .mt-title {
+        margin-top: 7vw;
+    }
+
+    .display-none {
+        display: none;
+    }
+
+    .no-margin {
+        margin-bottom: 0 !important;
+    }
+
+    
+    
+    
+}
 
